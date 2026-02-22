@@ -1,0 +1,33 @@
+# LaTeX intermediate and aux files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.blg
+*.bbl
+*.synctex.gz
+*.nav
+*.snm
+*.idx
+*.ilg
+*.ind
+*.gz
+# LaTeX build dirs
+_build/
+build/
+# Editor files
+*.swp
+*~
+.DS_Store
+# VSCode
+.vscode/
+# Python bytecode
+__pycache__/
+# Node modules
+node_modules/
+# Do NOT ignore final PDF
+# main.pdf will be committed intentionally

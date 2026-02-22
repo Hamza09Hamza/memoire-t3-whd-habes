@@ -1,0 +1,167 @@
+% ==============================================================================
+% مذكرة تخرج: تحديات وكالات الأسفار في ظل المنافسة مع المنصات الإلكترونية
+% ==============================================================================
+\documentclass[a4paper, 14pt]{extreport}
+
+% ==================== الحزم الأساسية ====================
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage[numerals=maghrib]{arabic}
+\setotherlanguage{english}
+
+% الخطوط العربية
+\setmainfont{Amiri}[
+  Path = /usr/local/texlive/2025basic/texmf-dist/fonts/truetype/public/amiri/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  BoldFont = *-Bold,
+  ItalicFont = *-Italic,
+  BoldItalicFont = *-BoldItalic,
+  Script = Arabic
+]
+\newfontfamily\arabicfont{Amiri}[
+  Path = /usr/local/texlive/2025basic/texmf-dist/fonts/truetype/public/amiri/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  BoldFont = *-Bold,
+  ItalicFont = *-Italic,
+  BoldItalicFont = *-BoldItalic,
+  Script = Arabic,
+  Scale = 1.1
+]
+\newfontfamily\arabicfontsf{Amiri}[
+  Path = /usr/local/texlive/2025basic/texmf-dist/fonts/truetype/public/amiri/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  BoldFont = *-Bold,
+  ItalicFont = *-Italic,
+  BoldItalicFont = *-BoldItalic,
+  Script = Arabic,
+  Scale = 1.1
+]
+
+% ==================== تنسيق الصفحة ====================
+\usepackage[top=2.5cm, bottom=2.5cm, right=3cm, left=2cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+% ==================== حزم إضافية ====================
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage[backend=bibtex, style=authoryear, sorting=nyt]{biblatex}
+\addbibresource{references.bib}
+
+% ==================== تنسيق العناوين ====================
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries\centering}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+% ==================== تنسيق الرأس والتذييل ====================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\leftmark}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ==================== إعدادات الروابط ====================
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=blue!60!black,
+  urlcolor=blue!60!black,
+  bookmarks=true,
+  bookmarksopen=true,
+}
+
+% ==================== أوامر مخصصة ====================
+\newcommand{\blankpage}{\newpage\thispagestyle{empty}\mbox{}\newpage}
+
+% ==================== إصلاح توافق bidi مع LaTeX ====================
+\makeatletter
+\ifdefined\UseMathForPositioningText\else
+  \newcommand{\UseMathForPositioningText}{}
+\fi
+\ifdefined\@kernel@tabular@init\else
+  \newcommand{\@kernel@tabular@init}{}
+\fi
+\makeatother
+
+% ==============================================================================
+% بداية المستند
+% ==============================================================================
+\begin{document}
+
+% ==================== الصفحات الأولية ====================
+\pagenumbering{roman}
+
+% صفحة العنوان
+\input{front/titlepage}
+
+% الإهداء
+\input{front/dedication}
+
+% الشكر والتقدير
+\input{front/acknowledgments}
+
+% الملخص
+\input{front/abstract}
+
+% فهرس المحتويات
+\tableofcontents
+\newpage
+
+% قائمة الجداول
+\listoftables
+\newpage
+
+% قائمة الأشكال
+\listoffigures
+\newpage
+
+% ==================== المتن ====================
+\pagenumbering{arabic}
+
+% المقدمة العامة
+\input{chapters/introduction}
+
+% الفصل الأول
+\input{chapters/chapter1}
+
+% الفصل الثاني
+\input{chapters/chapter2}
+
+% الفصل الثالث
+\input{chapters/chapter3}
+
+% الخاتمة العامة
+\input{chapters/conclusion}
+
+% ==================== قائمة المراجع ====================
+\input{back/bibliography}
+
+\end{document}
