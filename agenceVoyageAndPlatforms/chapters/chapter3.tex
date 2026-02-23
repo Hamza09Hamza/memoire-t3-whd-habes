@@ -499,6 +499,32 @@
 \end{tabular}
 \end{table}
 
+ويوضح الشكل \ref{fig:framework} إطار العمل المقترح للتحول الاستراتيجي لوكالات الأسفار من خلال ست مراحل متتابعة ومتكاملة، مع وجود حلقة تغذية راجعة تضمن التحسين المستمر:
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+    phase/.style={rectangle, draw=blue!50, rounded corners=5pt,
+                  text width=9cm, minimum height=1cm, align=center, font=\small\bfseries},
+    arr/.style={->, thick, >=stealth, draw=blue!40}
+]
+\node[phase, fill=blue!15] (p1) at (0,0) {المرحلة 1: التشخيص والتقييم (1--3 أشهر)};
+\node[phase, fill=blue!12] (p2) at (0,-1.7) {المرحلة 2: بناء الرؤية والاستراتيجية (1--2 شهر)};
+\node[phase, fill=green!12] (p3) at (0,-3.4) {المرحلة 3: البناء التكنولوجي (3--6 أشهر)};
+\node[phase, fill=green!10] (p4) at (0,-5.1) {المرحلة 4: تطوير الكفاءات (مستمرة)};
+\node[phase, fill=orange!15] (p5) at (0,-6.8) {المرحلة 5: الإطلاق والتنفيذ (مستمرة)};
+\node[phase, fill=orange!10] (p6) at (0,-8.5) {المرحلة 6: التقييم والتحسين المستمر (دورية)};
+\draw[arr] (p1) -- (p2);
+\draw[arr] (p2) -- (p3);
+\draw[arr] (p3) -- (p4);
+\draw[arr] (p4) -- (p5);
+\draw[arr] (p5) -- (p6);
+\draw[arr, dashed, draw=red!50] (p6.east) -- ++(1.5,0) |- (p1.east);
+\end{tikzpicture}
+\caption{إطار العمل المقترح للتحول الاستراتيجي لوكالات الأسفار (6 مراحل)}
+\label{fig:framework}
+\end{figure}
+
 
 \subsection{نماذج ناجحة في التكيف}
 
