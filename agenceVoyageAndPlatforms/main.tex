@@ -8,6 +8,7 @@
 \usepackage{polyglossia}
 \setmainlanguage[numerals=maghrib]{arabic}
 \setotherlanguage{english}
+\setotherlanguage{french}
 
 % الخطوط العربية
 \setmainfont{Amiri}[
@@ -40,6 +41,16 @@
   Scale = 1.1
 ]
 
+% خط النصوص الإنجليزية والفرنسية (يُستخدم مع \textenglish{})
+\newfontfamily\englishfont{Times New Roman}[
+  Script = Latin,
+  Ligatures = TeX,
+]
+\newfontfamily\frenchfont{Times New Roman}[
+  Script = Latin,
+  Ligatures = TeX,
+]
+
 % ==================== تنسيق الصفحة ====================
 \usepackage[top=2.5cm, bottom=2.5cm, right=3cm, left=2cm]{geometry}
 \usepackage{setspace}
@@ -56,9 +67,7 @@
 \usepackage{titlesec}
 \usepackage{fancyhdr}
 \usepackage{xcolor}
-\usepackage{tikz}
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
+% tikz/pgfplots removed — all charts replaced with tables
 \usepackage{amssymb}
 \usepackage{caption}
 \usepackage{subcaption}
@@ -139,9 +148,7 @@
 \listoftables
 \newpage
 
-% قائمة الأشكال
-\listoffigures
-\newpage
+% قائمة الأشكال (محذوفة — تم استبدال جميع الأشكال بجداول)
 
 % ==================== المتن ====================
 \pagenumbering{arabic}

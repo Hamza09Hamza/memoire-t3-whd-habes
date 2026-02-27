@@ -1,0 +1,190 @@
+\xpg@aux {numerals=maghrib}{arabic}
+\contentsline {chapter}{المقدمة العامة}{1}{chapter*.1}%
+\contentsline {section}{إشكالية الدراسة}{2}{section*.2}%
+\contentsline {section}{فرضيات الدراسة}{2}{Item.5}%
+\contentsline {section}{أهمية الدراسة}{3}{Item.5}%
+\contentsline {section}{أهداف الدراسة}{3}{Item.8}%
+\contentsline {section}{منهج الدراسة}{4}{Item.13}%
+\contentsline {section}{حدود الدراسة}{5}{Item.16}%
+\contentsline {section}{صعوبات الدراسة}{5}{Item.16}%
+\contentsline {section}{هيكل الدراسة}{6}{Item.20}%
+\contentsline {chapter}{\numberline {1}الإطار النظري لوكالات السفر والمنصات الإلكترونية}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}المبحث الأول: تعريف وكالات الأسفار، نشأتها، وأنواعها}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}تعريف وكالات الأسفار}{7}{subsection.1.1.1}%
+\contentsline {subsubsection}{المفهوم اللغوي والاصطلاحي}{7}{subsubsection*.3}%
+\contentsline {subsubsection}{التعريف القانوني لوكالات الأسفار}{8}{subsubsection*.4}%
+\contentsline {subsection}{\numberline {1.1.2}نشأة وتطور وكالات الأسفار}{9}{subsection.1.1.2}%
+\contentsline {subsubsection}{الجذور التاريخية لصناعة السفر}{9}{subsubsection*.5}%
+\contentsline {subsubsection}{مرحلة التأسيس (القرن التاسع عشر)}{9}{subsubsection*.6}%
+\contentsline {subsubsection}{مرحلة النمو والتوسع (النصف الأول من القرن العشرين)}{10}{subsubsection*.7}%
+\contentsline {subsubsection}{مرحلة الازدهار (1950-1990)}{10}{subsubsection*.8}%
+\contentsline {subsubsection}{مرحلة التحول الرقمي (من التسعينيات إلى اليوم)}{11}{subsubsection*.9}%
+\contentsline {subsection}{\numberline {1.1.3}أنواع وكالات الأسفار}{11}{subsection.1.1.3}%
+\contentsline {subsubsection}{التصنيف حسب طبيعة النشاط}{12}{subsubsection*.11}%
+\contentsline {subsubsection}{التصنيف حسب التخصص}{12}{subsubsection*.12}%
+\contentsline {subsubsection}{التصنيف حسب نمط التشغيل}{13}{subsubsection*.13}%
+\contentsline {subsubsection}{التصنيف حسب الوسيلة}{13}{subsubsection*.14}%
+\contentsline {section}{\numberline {1.2}المبحث الثاني: الخدمات التي تقدمها وكالات الأسفار}{14}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}خدمات النقل والحجز}{14}{subsection.1.2.1}%
+\contentsline {subsubsection}{حجز تذاكر الطيران}{14}{subsubsection*.16}%
+\contentsline {subsubsection}{حجز وسائل النقل الأخرى}{15}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {1.2.2}خدمات الإقامة}{15}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}تنظيم الرحلات والبرامج السياحية}{16}{subsection.1.2.3}%
+\contentsline {subsubsection}{الرحلات الشاملة (الباقات السياحية)}{16}{subsubsection*.18}%
+\contentsline {subsubsection}{الرحلات المُصممة حسب الطلب}{16}{subsubsection*.19}%
+\contentsline {subsection}{\numberline {1.2.4}الخدمات الإدارية والاستشارية}{16}{subsection.1.2.4}%
+\contentsline {subsubsection}{التأشيرات والوثائق}{16}{subsubsection*.20}%
+\contentsline {subsubsection}{التأمين على السفر}{17}{subsubsection*.21}%
+\contentsline {subsubsection}{الاستشارات والنصائح}{17}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {1.2.5}خدمات سياحة الأعمال}{17}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}خدمات الحج والعمرة}{18}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}المبحث الثالث: المنصات الإلكترونية ومزاياها}{18}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}تعريف المنصات الإلكترونية للسفر}{18}{subsection.1.3.1}%
+\contentsline {subsubsection}{المفهوم والتعريف}{18}{subsubsection*.24}%
+\contentsline {subsubsection}{أنواع المنصات الإلكترونية للسفر}{19}{subsubsection*.25}%
+\contentsline {subsection}{\numberline {1.3.2}مزايا المنصات الإلكترونية}{20}{subsection.1.3.2}%
+\contentsline {subsubsection}{مزايا مرتبطة بسهولة الاستخدام والوصول}{21}{subsubsection*.26}%
+\contentsline {subsubsection}{مزايا مرتبطة بالمعلومات والشفافية}{21}{subsubsection*.27}%
+\contentsline {subsubsection}{مزايا مرتبطة بالتكلفة}{22}{subsubsection*.28}%
+\contentsline {subsubsection}{مزايا مرتبطة بالتكنولوجيا والابتكار}{22}{subsubsection*.29}%
+\contentsline {subsection}{\numberline {1.3.3}نماذج الأعمال للمنصات الإلكترونية}{23}{subsection.1.3.3}%
+\contentsline {subsubsection}{نموذج العمولة (Commission Model)}{24}{subsubsection*.31}%
+\contentsline {subsubsection}{نموذج التاجر (Merchant Model)}{24}{subsubsection*.32}%
+\contentsline {subsubsection}{نموذج الإعلانات (Advertising Model)}{24}{subsubsection*.33}%
+\contentsline {subsubsection}{نموذج الاشتراك (Subscription Model)}{24}{subsubsection*.34}%
+\contentsline {subsection}{\numberline {1.3.4}الاتجاهات الحديثة في المنصات الإلكترونية}{24}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}البنية التحتية التكنولوجية للمنصات الإلكترونية}{25}{subsection.1.3.5}%
+\contentsline {subsubsection}{الحوسبة السحابية والبنية التحتية}{25}{subsubsection*.35}%
+\contentsline {subsubsection}{أنظمة التسعير الديناميكي}{26}{subsubsection*.36}%
+\contentsline {subsubsection}{تقنيات تحليل البيانات الضخمة}{26}{subsubsection*.37}%
+\contentsline {subsection}{\numberline {1.3.6}وضع وكالات الأسفار في العالم العربي}{27}{subsection.1.3.6}%
+\contentsline {subsubsection}{السياق العام}{27}{subsubsection*.38}%
+\contentsline {subsubsection}{التحديات الخاصة في السوق العربي}{27}{subsubsection*.39}%
+\contentsline {subsubsection}{الفرص المتاحة}{28}{subsubsection*.40}%
+\contentsline {subsection}{\numberline {1.3.7}الدراسات السابقة المتعلقة بالموضوع}{29}{subsection.1.3.7}%
+\contentsline {subsubsection}{الدراسات الأجنبية}{29}{subsubsection*.42}%
+\contentsline {subsubsection}{الدراسات العربية}{30}{subsubsection*.43}%
+\contentsline {subsubsection}{موقع الدراسة الحالية من الدراسات السابقة}{30}{subsubsection*.44}%
+\contentsline {chapter}{\numberline {2}المنافسة بين وكالات الأسفار والمنصات الإلكترونية}{32}{chapter.2}%
+\contentsline {section}{\numberline {2.1}المبحث الأول: طبيعة المنافسة}{32}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}الإطار النظري للمنافسة في قطاع السياحة}{32}{subsection.2.1.1}%
+\contentsline {subsubsection}{مفهوم المنافسة وأنواعها}{32}{subsubsection*.45}%
+\contentsline {subsubsection}{تحليل القوى التنافسية في قطاع السفر}{33}{subsubsection*.46}%
+\contentsline {subsection}{\numberline {2.1.2}أبعاد المنافسة بين وكالات الأسفار والمنصات الإلكترونية}{35}{subsection.2.1.2}%
+\contentsline {subsubsection}{البعد التكنولوجي}{35}{subsubsection*.48}%
+\contentsline {subsubsection}{البعد التسويقي}{36}{subsubsection*.49}%
+\contentsline {subsubsection}{البعد السعري}{37}{subsubsection*.50}%
+\contentsline {subsubsection}{البعد الجغرافي}{37}{subsubsection*.51}%
+\contentsline {subsection}{\numberline {2.1.3}نقاط قوة وكالات الأسفار في المنافسة}{38}{subsection.2.1.3}%
+\contentsline {subsubsection}{الخدمة الشخصية والعلاقة الإنسانية}{38}{subsubsection*.52}%
+\contentsline {subsubsection}{الخبرة والمعرفة المتخصصة}{38}{subsubsection*.53}%
+\contentsline {subsubsection}{الأمان والثقة}{39}{subsubsection*.54}%
+\contentsline {subsubsection}{الحماية القانونية}{39}{subsubsection*.55}%
+\contentsline {subsubsection}{خدمة ما بعد البيع}{39}{subsubsection*.56}%
+\contentsline {section}{\numberline {2.2}المبحث الثاني: تأثير المنصات الإلكترونية على وكالات الأسفار}{40}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}التأثير على الحصة السوقية}{40}{subsection.2.2.1}%
+\contentsline {subsubsection}{تراجع الحصة السوقية لوكالات الأسفار}{40}{subsubsection*.58}%
+\contentsline {subsubsection}{تراجع عدد وكالات الأسفار}{41}{subsubsection*.59}%
+\contentsline {subsubsection}{إعادة التوزيع السوقي}{41}{subsubsection*.60}%
+\contentsline {subsection}{\numberline {2.2.2}التأثير على نموذج الأعمال}{42}{subsection.2.2.2}%
+\contentsline {subsubsection}{انهيار نظام العمولات التقليدي}{42}{subsubsection*.62}%
+\contentsline {subsubsection}{الضغط على هوامش الربح}{42}{subsubsection*.63}%
+\contentsline {subsubsection}{تغير في تركيبة الإيرادات}{43}{subsubsection*.64}%
+\contentsline {subsection}{\numberline {2.2.3}التأثير على سلوك المستهلك}{43}{subsection.2.2.3}%
+\contentsline {subsubsection}{تحول في أنماط البحث والحجز}{43}{subsubsection*.65}%
+\contentsline {subsubsection}{ظاهرة البحث في الوكالة والحجز عبر الإنترنت}{44}{subsubsection*.66}%
+\contentsline {subsubsection}{تغير في توقعات المستهلك}{44}{subsubsection*.67}%
+\contentsline {subsection}{\numberline {2.2.4}التأثير على سوق العمل في قطاع السفر}{45}{subsection.2.2.4}%
+\contentsline {subsubsection}{تراجع في عدد الوظائف التقليدية}{45}{subsubsection*.68}%
+\contentsline {subsubsection}{تغير في المهارات المطلوبة}{45}{subsubsection*.69}%
+\contentsline {subsubsection}{ظهور أدوار ووظائف جديدة}{45}{subsubsection*.70}%
+\contentsline {subsection}{\numberline {2.2.5}تأثير جائحة كوفيد-19}{46}{subsection.2.2.5}%
+\contentsline {subsubsection}{التأثير السلبي على وكالات الأسفار}{46}{subsubsection*.71}%
+\contentsline {subsubsection}{الفرص التي أتاحتها الجائحة}{46}{subsubsection*.72}%
+\contentsline {subsection}{\numberline {2.2.6}التأثير على سلسلة القيمة في صناعة السفر}{47}{subsection.2.2.6}%
+\contentsline {subsubsection}{إعادة هيكلة قنوات التوزيع}{47}{subsubsection*.73}%
+\contentsline {subsubsection}{ظاهرة إلغاء الوساطة (Disintermediation)}{48}{subsubsection*.74}%
+\contentsline {subsubsection}{ظاهرة إعادة الوساطة (Reintermediation)}{48}{subsubsection*.75}%
+\contentsline {subsection}{\numberline {2.2.7}تحليل معمّق لسلوك المستهلك السياحي في العصر الرقمي}{48}{subsection.2.2.7}%
+\contentsline {subsubsection}{نموذج رحلة العميل الرقمي (Digital Customer Journey)}{48}{subsubsection*.76}%
+\contentsline {subsubsection}{عوامل اختيار قناة الحجز}{49}{subsubsection*.77}%
+\contentsline {subsubsection}{الفجوة بين الأجيال في سلوك الحجز}{50}{subsubsection*.79}%
+\contentsline {subsection}{\numberline {2.2.8}السيناريوهات المستقبلية للعلاقة بين الوكالات والمنصات}{50}{subsection.2.2.8}%
+\contentsline {subsubsection}{السيناريو الأول: الزوال التدريجي}{50}{subsubsection*.80}%
+\contentsline {subsubsection}{السيناريو الثاني: التحول والتكيف}{50}{subsubsection*.81}%
+\contentsline {subsubsection}{السيناريو الثالث: النموذج الهجين}{51}{subsubsection*.82}%
+\contentsline {chapter}{\numberline {3}التحديات والحلول المقترحة لوكالات السفر}{52}{chapter.3}%
+\contentsline {section}{\numberline {3.1}المبحث الأول: التحديات التي تواجه وكالات السفر}{52}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}التحديات التكنولوجية}{52}{subsection.3.1.1}%
+\contentsline {subsubsection}{الفجوة الرقمية}{52}{subsubsection*.83}%
+\contentsline {subsubsection}{سرعة التطور التكنولوجي}{53}{subsubsection*.84}%
+\contentsline {subsubsection}{تحديات الأمن السيبراني}{54}{subsubsection*.85}%
+\contentsline {subsection}{\numberline {3.1.2}التحديات الاقتصادية والمالية}{54}{subsection.3.1.2}%
+\contentsline {subsubsection}{تراجع مصادر الدخل}{54}{subsubsection*.86}%
+\contentsline {subsubsection}{ارتفاع تكاليف التشغيل}{54}{subsubsection*.87}%
+\contentsline {subsubsection}{صعوبة الحصول على التمويل}{55}{subsubsection*.88}%
+\contentsline {subsection}{\numberline {3.1.3}التحديات المرتبطة بسلوك المستهلك}{55}{subsection.3.1.3}%
+\contentsline {subsubsection}{استقلالية المسافر الرقمي}{55}{subsubsection*.89}%
+\contentsline {subsubsection}{تأثير الأجيال الجديدة}{56}{subsubsection*.90}%
+\contentsline {subsubsection}{اقتصاد التجربة والمشاركة}{56}{subsubsection*.91}%
+\contentsline {subsection}{\numberline {3.1.4}التحديات التنظيمية والبيئية}{57}{subsection.3.1.4}%
+\contentsline {subsubsection}{عدم تكافؤ الإطار التنظيمي}{57}{subsubsection*.92}%
+\contentsline {subsubsection}{ضعف الدعم المؤسسي}{57}{subsubsection*.93}%
+\contentsline {subsubsection}{المنافسة من داخل القطاع}{57}{subsubsection*.94}%
+\contentsline {subsection}{\numberline {3.1.5}ملخص التحديات}{57}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}المبحث الثاني: حلول واستراتيجيات التطوير}{58}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}استراتيجية التحول الرقمي}{58}{subsection.3.2.1}%
+\contentsline {subsubsection}{بناء منصة رقمية متكاملة}{58}{subsubsection*.96}%
+\contentsline {subsubsection}{تبني أنظمة إدارة علاقات العملاء (CRM)}{59}{subsubsection*.97}%
+\contentsline {subsubsection}{الاستفادة من الذكاء الاصطناعي}{60}{subsubsection*.98}%
+\contentsline {subsection}{\numberline {3.2.2}استراتيجية التمايز والتخصص}{60}{subsection.3.2.2}%
+\contentsline {subsubsection}{التخصص في أسواق محددة}{60}{subsubsection*.99}%
+\contentsline {subsubsection}{تقديم تجارب فريدة}{61}{subsubsection*.100}%
+\contentsline {subsubsection}{بناء العلامة التجارية الشخصية}{61}{subsubsection*.101}%
+\contentsline {subsection}{\numberline {3.2.3}استراتيجية التسويق الرقمي}{62}{subsection.3.2.3}%
+\contentsline {subsubsection}{تحسين محركات البحث (SEO)}{62}{subsubsection*.102}%
+\contentsline {subsubsection}{التسويق عبر وسائل التواصل الاجتماعي}{62}{subsubsection*.103}%
+\contentsline {subsubsection}{التسويق بالمحتوى}{63}{subsubsection*.104}%
+\contentsline {subsubsection}{التسويق عبر البريد الإلكتروني}{63}{subsubsection*.105}%
+\contentsline {subsection}{\numberline {3.2.4}استراتيجية تحسين تجربة العميل}{63}{subsection.3.2.4}%
+\contentsline {subsubsection}{تطوير الخدمة الاستشارية}{64}{subsubsection*.106}%
+\contentsline {subsubsection}{تحسين خدمة ما بعد البيع}{64}{subsubsection*.107}%
+\contentsline {subsubsection}{إنشاء برامج ولاء العملاء}{64}{subsubsection*.108}%
+\contentsline {subsection}{\numberline {3.2.5}استراتيجية الشراكات والتحالفات}{65}{subsection.3.2.5}%
+\contentsline {subsubsection}{الشراكات بين الوكالات}{65}{subsubsection*.109}%
+\contentsline {subsubsection}{الشراكات مع مقدمي الخدمات}{65}{subsubsection*.110}%
+\contentsline {subsubsection}{التعاون مع المنصات الإلكترونية}{65}{subsubsection*.111}%
+\contentsline {subsection}{\numberline {3.2.6}استراتيجية تطوير الموارد البشرية}{66}{subsection.3.2.6}%
+\contentsline {subsubsection}{التكوين والتدريب المستمر}{66}{subsubsection*.112}%
+\contentsline {subsubsection}{استقطاب الكفاءات الجديدة}{66}{subsubsection*.113}%
+\contentsline {subsubsection}{تحسين بيئة العمل}{66}{subsubsection*.114}%
+\contentsline {subsection}{\numberline {3.2.7}استراتيجية التنويع وتوسيع مصادر الدخل}{67}{subsection.3.2.7}%
+\contentsline {subsubsection}{خدمات ذات قيمة مضافة عالية}{67}{subsubsection*.115}%
+\contentsline {subsubsection}{مصادر دخل جديدة}{67}{subsubsection*.116}%
+\contentsline {subsection}{\numberline {3.2.8}نماذج ناجحة في التكيف}{68}{subsection.3.2.8}%
+\contentsline {subsubsection}{نموذج الوكالة الهجينة}{68}{subsubsection*.118}%
+\contentsline {subsubsection}{نموذج التخصص العميق}{68}{subsubsection*.119}%
+\contentsline {subsubsection}{نموذج مستشار السفر المستقل}{69}{subsubsection*.120}%
+\contentsline {subsubsection}{نموذج الوكالة المتخصصة في السوق المحلي}{69}{subsubsection*.121}%
+\contentsline {subsection}{\numberline {3.2.9}إطار عمل مقترح للتحول الاستراتيجي}{69}{subsection.3.2.9}%
+\contentsline {subsubsection}{المرحلة الأولى: التشخيص والتقييم (1-3 أشهر)}{69}{subsubsection*.122}%
+\contentsline {subsubsection}{المرحلة الثانية: بناء الرؤية والاستراتيجية (1-2 شهر)}{70}{subsubsection*.123}%
+\contentsline {subsubsection}{المرحلة الثالثة: البناء التكنولوجي (3-6 أشهر)}{70}{subsubsection*.124}%
+\contentsline {subsubsection}{المرحلة الرابعة: تطوير الكفاءات (مستمرة)}{70}{subsubsection*.125}%
+\contentsline {subsubsection}{المرحلة الخامسة: الإطلاق والتنفيذ (مستمرة)}{71}{subsubsection*.126}%
+\contentsline {subsubsection}{المرحلة السادسة: التقييم والتحسين المستمر (دورية)}{71}{subsubsection*.127}%
+\contentsline {subsection}{\numberline {3.2.10}قياس الأداء ومؤشرات النجاح}{71}{subsection.3.2.10}%
+\contentsline {subsection}{\numberline {3.2.11}دور الدولة والمؤسسات في دعم التحول}{72}{subsection.3.2.11}%
+\contentsline {subsubsection}{الدعم التشريعي والتنظيمي}{72}{subsubsection*.129}%
+\contentsline {subsubsection}{الدعم المالي والتقني}{72}{subsubsection*.130}%
+\contentsline {subsubsection}{الدور الجمعوي والمهني}{72}{subsubsection*.131}%
+\contentsline {subsection}{\numberline {3.2.12}السياحة المستدامة كفرصة استراتيجية}{73}{subsection.3.2.12}%
+\contentsline {subsubsection}{البعد البيئي}{73}{subsubsection*.132}%
+\contentsline {subsubsection}{البعد الاجتماعي والثقافي}{73}{subsubsection*.133}%
+\contentsline {subsubsection}{البعد الاقتصادي}{73}{subsubsection*.134}%
+\contentsline {chapter}{الخاتمة العامة}{75}{chapter*.135}%
+\contentsline {section}{ملخص نتائج الدراسة}{75}{section*.136}%
+\contentsline {section}{مناقشة الفرضيات}{76}{Item.79}%
+\contentsline {section}{التوصيات}{77}{Item.79}%
+\contentsline {section}{آفاق الدراسة}{78}{Item.88}%
+\contentsline {chapter}{قائمة المراجع}{79}{Item.88}%
